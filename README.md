@@ -7,7 +7,7 @@ I wanted to find what day had the most new cases in the US for covid, and also t
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Data/Code Explenation](https://youtu.be/sHXyZlWbLt8)
 
 # Data Analysis Results
 
